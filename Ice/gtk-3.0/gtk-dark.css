@@ -3076,12 +3076,11 @@ headerbar button.toggle:checked:hover:active {
                     
 .nautilus-window .titlebar .path-bar-box{
  
+  margin-top:0.34375rem;
+  margin-bottom:0.275rem;
+  padding:0.06875rem 0.4125rem;
   border-radius: 5px;
-  margin-top:6px;
-  margin-bottom: 4px;
   border: 1px solid;
-  padding-top:1px;
-  padding-bottom: 1px;
   padding-left:0px; 
   border-color: shade(@headerbar_color,0.9); 
   border-bottom-color: shade(@headerbar_color,0.8);
